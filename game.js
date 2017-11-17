@@ -868,7 +868,7 @@ SFX.muted = false;
 Game = {
   score: 0,
   totalAsteroids: 5,
-  lives: 3,
+  lives:  3,
 
   canvasWidth: 800,
   canvasHeight: 600,
