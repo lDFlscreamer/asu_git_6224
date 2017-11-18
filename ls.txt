@@ -1,0 +1,26 @@
+-a----       09.11.2017      0:24              6 .gitignore
+-a----       09.11.2017      0:21          33970 39459__THE_bizniss__laser.wav
+-a----       09.11.2017      0:21          86508 51467__smcameron__missile_explosion.wav
+-a----       09.11.2017      0:21          32518 game.js
+-a----       09.11.2017      0:21           1177 index.html
+-a----       13.11.2017     23:11           1402 ipad.js
+-a----       13.11.2017     23:11          70995 jquery-1.4.1.min.js
+-a----       09.11.2017      0:21           1087 LICENSE
+-a----       12.11.2017     21:54            273 README.md
+-a----       09.11.2017      0:21          27860 vector_battle_regular.typeface.js
+
+d-----       13.11.2017     21:24                .idea
+{
+	-a----       22.03.2016     16:39             16 .name
+	-a----       22.03.2016     16:39            282 asu_git_tutorial.iml
+	-a----       22.03.2016     16:39            164 encodings.xml
+	-a----       22.03.2016     16:39            188 misc.xml
+	-a----       22.03.2016     16:39            284 modules.xml
+	-a----       22.03.2016     16:39            164 vcs.xml
+	-a----       22.03.2016     16:39          11401 workspace.xml
+
+	d-----       13.11.2017     21:24                scopes
+		{
+		-a----       22.03.2016     16:39            139 scope_settings.xml
+		}
+}
