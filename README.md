@@ -1,5 +1,14 @@
-HTML5-Asteroids
-===============
+# Tverdokhlib A.I
 
-Pure Javascript Asteroids, based on http://dougmcinnes.com/2010/05/12/html-5-asteroids/ 
-Source https://github.com/dmcinnes/HTML5-Asteroids
+```cpp
+#include <iostream>;
+
+using namespace std;
+
+void main(){
+ cout<<"hello word!!"<<endl;
+};
+```
+* <a href="404">not found<a>
+* <a href="screamer.cc.ua">screamer<a>
+* <a href="404">404<a>
